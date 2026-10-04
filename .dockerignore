@@ -1,0 +1,8 @@
+.venv
+index
+data
+.env
+eval
+__pycache__
+*.pyc
+test_rag.py

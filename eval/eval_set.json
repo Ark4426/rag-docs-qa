@@ -1,0 +1,10 @@
+[
+  {"question": "How much does one HX-410 panel weigh?", "source": "solar_handbook.md", "expected": "21.5 kg"},
+  {"question": "What is the peak efficiency of the inverter?", "source": "solar_handbook.md", "expected": "97.6%"},
+  {"question": "Can I use a pressure washer to clean the panels?", "source": "solar_handbook.md", "expected": "No, it voids the warranty"},
+  {"question": "What must installers do before opening the inverter?", "source": "solar_handbook.md", "expected": "Isolate the DC isolator"},
+  {"question": "How many days of annual leave do full-time employees get?", "source": "hr_policy.md", "expected": "26 days plus public holidays"},
+  {"question": "When do I need a doctor's note for sick leave?", "source": "hr_policy.md", "expected": "For absences longer than 7 days"},
+  {"question": "How long is paid leave for partners after a birth?", "source": "hr_policy.md", "expected": "6 weeks"},
+  {"question": "How many days per year can I work from abroad?", "source": "hr_policy.md", "expected": "20 days"}
+]

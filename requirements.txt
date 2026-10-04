@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic-settings
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-ollama
+faiss-cpu
+pymupdf
+python-docx
+httpx
+pytest
